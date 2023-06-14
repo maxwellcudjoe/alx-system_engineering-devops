@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d "oo"<<<{a..z}{a..z}
+echo  tr -d "oo"<<<{a..z}{a..z}
